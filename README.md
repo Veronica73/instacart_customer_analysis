@@ -1,6 +1,7 @@
 # Instacart Customer Analysis
 Data for this project could be found at [here](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)  
-Please create a new folder named "data" and put all the raw data files in it.
+1. Please create a new folder named "data" and put all the raw data files in it.
+2. Make sure you run notebooks in order: EDA-segmentation-text analysis, so that intermediate files are generated. 
 
 
 ## Project Overview 
